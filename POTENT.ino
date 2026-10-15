@@ -9,7 +9,7 @@ voltage to the Serial Monitor, and writes the value to
 DAC pin GPIO 25 to produce an analog voltage output.
 
 Programmer: 
-  Sergie D. Gomez
+  Althea Jane Cordova
 
 Date: 
   14 October 2026
